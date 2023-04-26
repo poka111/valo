@@ -1,1 +1,2 @@
-test
+registerAttendList.javaのコンストラクタのatListに名簿を記載する。
+attendance.javaのメインメソッドを実行することで、座席表を生成する。
